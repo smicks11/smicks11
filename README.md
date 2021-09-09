@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @james
-- 👀 Mobile developer..
-- 🌱 I live flutter..
-- 💞️ I’m looking to collaborate on Flutter projects...
-- 📫 I build ideas to software ...
+Hi there 👋, I'm James
+👀 Mobile developer..
+🌱 I live flutter..
+💞️ I’m looking to collaborate on Flutter projects...
+📫 I build ideas to software ...
 
 <!---
 smicks11/smicks11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
