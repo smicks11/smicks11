@@ -1,7 +1,6 @@
 Hi there 👋, I'm James
-👀 Mobile developer..
+👀 Mobile Engineer..
 🌱 I live flutter..
-💞️ I’m looking to collaborate on Flutter projects...
 📫 I build ideas to software ...
 
 <!---
